@@ -1,0 +1,44 @@
+body
+{
+	background-color: #707070;
+	margin: 0;
+}
+
+h1
+{
+	font-size:50px;
+	text-align: center;
+	background-color: white;
+	margin: 0;
+}
+
+#paragraf1
+{
+	background-color: orange;
+	font-size: 30px;
+	text-align: left;
+	margin: 0;
+}
+
+h2
+{
+	background-color: green;
+	margin: 0;
+}
+
+#paragraf2
+{
+	background-color: pink;
+	margin: 0;
+}
+
+
+ol
+{
+	background-color: black;
+	margin: 0;
+}
+
+
+
+
